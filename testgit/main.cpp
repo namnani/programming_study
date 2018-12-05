@@ -7,5 +7,10 @@ using namespace std;
 int main(void)
 {
 	cout << "Hello, nani!" << endl;
+
+	cout << endl;
+
+	cout << "second test" << endl;
+
 	return 0;
 }
